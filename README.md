@@ -2,6 +2,12 @@
 
 No-code tools for crowd-tasking volunteer management system (for cities).
 
+## Demo
+
+This is just a demo repository (if anyone needs help setting it up on ground, please feel free to get in touch.)
+
+The demo is available under 'whatsapp-twilio-bot' directory [https://github.com/crowd-tasking/awesome-crowdtasking/tree/master/whatsapp-twilio-bot].
+
 ## Goals
 
 Anyone with a college degree and computer exposure should be able to deploy these.
@@ -17,37 +23,42 @@ Anyone with a college degree and computer exposure should be able to deploy thes
 
 ## Tools used
 
-1. Google Sheets
-2. Google Forms
-3. Zapier
-4. IFTTT
-5. Appsheet
+1. Google Sheets (data is kept here)
+2. Google Forms (data is collected here)
+3. Trello (for task management)
+4. Twilio (Functions and Programmable SMS for whatsapp sandbox)
+5. WhatsApp (for user interface)
 
 # Identified Workflows
 
-## Signup (code SIG-xx)
+## Signup
 
 1. Signup and approve volunteers
 2. Induct volunteers online
 3. Signup and approve requestors
 4. Induct requestors
 
+See under folder "signup-workflow".
 
-## Volunteering (code VOL-xx)
+## Volunteering
 
 1. Task creation
 2. Task assignment
 3. Task tracking
 
+To be done
 
-## Role management (code ROLE-xx)
+## Role management
 
-1. Induct an admin volunteer (using a checklist)
-  a. Add them as editors to any google sheet they are allowed to edit
-  b. NOTE: They are supposed to only edit using forms
+Any admins are to be added as Editors for google sheets.
 
+## Bot
 
-## Other tasks (code MISC-xx)
+A Whatsapp bot will be the interface with the users.
+
+See under folder "bot"
+
+## Other tasks
 
 1. Creation of local WhatsApp groups for volunteers (for notifications about new approved tasks)
 2. Analytics dashboard 
