@@ -6,7 +6,9 @@ No-code tools for crowd-tasking volunteer management system (for cities).
 
 This is just a demo repository (if anyone needs help setting it up on ground, please feel free to get in touch.)
 
-The demo is available under 'whatsapp-twilio-bot' directory [https://github.com/crowd-tasking/awesome-crowdtasking/tree/master/whatsapp-twilio-bot].
+Screenshots of demo are on this twitter thread [https://twitter.com/navalsaini/status/1243488318341271552]. Feel free to RT.
+
+Information about demo is also available under 'whatsapp-twilio-bot' directory [https://github.com/crowd-tasking/awesome-crowdtasking/tree/master/whatsapp-twilio-bot].
 
 ## Goals
 
